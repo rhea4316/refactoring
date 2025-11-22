@@ -1,9 +1,10 @@
-5e6e886 (HEAD -> main) task 2.4 :-)
+8c868e7 (HEAD -> main) task 2.1 is done i just didn't commit erm
+5e6e886 (origin/main, origin/HEAD) task 2.4 :-)
 68cb950 task 2.3
 2150fbf task 2.2 slay
 f3c788a i forgot to do Task 1.2 earlier but here it is
 97a423d removed parameter play from methods
-09449b4 (origin/main, origin/HEAD) Task 1.1
+09449b4 Task 1.1
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
