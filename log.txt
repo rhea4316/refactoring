@@ -1,4 +1,5 @@
-f3c788a (HEAD -> main) i forgot to do Task 1.2 earlier but here it is
+2150fbf (HEAD -> main) task 2.2 slay
+f3c788a i forgot to do Task 1.2 earlier but here it is
 97a423d removed parameter play from methods
 09449b4 (origin/main, origin/HEAD) Task 1.1
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
